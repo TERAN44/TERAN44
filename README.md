@@ -15,4 +15,5 @@
 
           
 ### 공부중인 것
+<div align="Left">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
