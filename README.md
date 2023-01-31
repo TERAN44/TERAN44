@@ -12,8 +12,10 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/>
    	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/><br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-
+</div>
           
 ### 공부중인 것
+	
 <div align="Left">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+</div>
