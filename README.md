@@ -1,16 +1,13 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SIU&fontAlign=70&fontAlignY=40&color=gradient)
 
-<!--
-**TERAN44/TERAN44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 성공회대학교 소프트웨어공학과, 미디어콘텐츠공학과 재학중
 
-Here are some ideas to get you started:
+---
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Python / C 
+
+
+          
+### 공부중인 것
